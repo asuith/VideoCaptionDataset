@@ -5,8 +5,9 @@ What are datasets for video captioning and where can I download them?
 This repo is here to help!
 
 TODO:
-[] MSVD
-[] ActivityNet
+- [x] MSR-VTT
+- [ ] MSVD
+- [ ] ActivityNet
 
 ## MSR-VTT
 
